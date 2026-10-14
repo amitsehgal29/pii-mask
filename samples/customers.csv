@@ -1,0 +1,4 @@
+customer_id,name,email,phone,iban,city
+C001,Ali Khan,ali.khan@example.com,+971501234567,AE070331234567890123456,Dubai
+C002,Sara Ahmed,sara@example.org,+971559876543,AE460090000000123456789,Sharjah
+C003,Ravi Iyer,,+971521112233,,Abu Dhabi
